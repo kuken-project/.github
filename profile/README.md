@@ -1,4 +1,4 @@
-**Küken** is an open-source project dedicated to making game server deployment **fast, modern, and simple**.
+**Küken** is an open-source project dedicated to making game server deployment **modern, as fast as possible and simple**.
 We believe that deploying applications shouldn't require hours of configuration, complex scripts, or deep DevOps expertise.
 
 ### Projects
@@ -17,7 +17,3 @@ Join developers using Küken worldwide:
 ### Support
 
 ⭐ Star our repos • 🐛 Report bugs • 💡 Suggest features • 💰 [Become a sponsor](https://github.com/sponsors/devnatan)
-
----
-
-*Built with ❤️ by the community*
