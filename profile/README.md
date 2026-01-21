@@ -4,7 +4,7 @@
 
 ## 🐤 Welcome to Küken!
 
-Küken is an open-source platform to spin up, manage, and scale your game servers — all from one place.
+**Küken** is an open-source platform to spin up, manage, and scale your game servers — all from one place.
 No complex scripts, no deep DevOps expertise. Just deploy and play.
 
 ### Community
