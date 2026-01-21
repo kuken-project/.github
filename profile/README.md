@@ -4,8 +4,8 @@
 
 ## 🐤 Welcome to Küken!
 
-**Küken** is an open-source project dedicated to making game server deployment **modern, as fast as possible and simple**.
-We believe that deploying applications shouldn't require hours of configuration, complex scripts, or deep DevOps expertise.
+Küken is an open-source platform to spin up, manage, and scale your game servers — all from one place.
+No complex scripts, no deep DevOps expertise. Just deploy and play.
 
 ### Community
 
