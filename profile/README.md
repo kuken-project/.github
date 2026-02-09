@@ -12,8 +12,4 @@ No complex scripts, no deep DevOps expertise. Just deploy and play.
 Join developers using Küken worldwide:
 
 - [Discord](https://discord.gg/UUfhB3KNZb) - Chat and support
-- [Discussions](https://github.com/devnatan/kuken/discussions) - Ideas and feedback
-
-### Support
-
-⭐ Star our repos • 🐛 Report bugs • 💡 Suggest features • 💰 [Become a sponsor](https://github.com/sponsors/devnatan)
+- [Discussions](https://github.com/kuken-project/kuken/discussions) - Ideas and feedback
